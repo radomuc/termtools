@@ -1,0 +1,17 @@
+~/.vim/
+├── autoload
+│   └── pathogen.vim
+├── bundle
+│   ├── a.vim
+│   ├── clang_complete
+│   ├── command-t
+│   ├── nerdcommenter
+│   ├── nerdtree
+│   ├── supertab
+│   ├── tagbar
+│   ├── ultisnips
+│   ├── vim-airline
+│   ├── vim-autoclose
+│   ├── vim-fugitive
+│   └── vim-gitgutter
+├── disabled

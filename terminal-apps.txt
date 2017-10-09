@@ -1,0 +1,23 @@
+# editor
+vim
+
+# File-Browser
+mc
+
+# Process-Browser
+htop
+
+# Mail-Client
+mutt
+
+# Screenshot
+scrot
+
+# Read QR-Code
+zbarimg
+
+# Password repository
+pass
+
+# Password-Gui (pass)
+upass
