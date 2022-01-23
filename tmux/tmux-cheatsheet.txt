@@ -58,3 +58,8 @@ Window/pane surgery:
         ?  list shortcuts
         :  prompt
 
+Save&Retore sessions (need plugin tmux-resurrect):
+Ctrl-s      save session
+Ctrl-r      restore session
+
+[
